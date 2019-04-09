@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "921585111270",
+    "firebase_url": "https://emajohn-54fd3.firebaseio.com",
+    "project_id": "emajohn-54fd3",
+    "storage_bucket": "emajohn-54fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921585111270:android:f669103861967727",
+        "android_client_info": {
+          "package_name": "com.example.emajohn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921585111270-g5g5ced314mi3i29h2a3v8iq2fpnt79s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emajohn",
+            "certificate_hash": "de33802b1e99e0d353ec9cab1242132b4d5268c5"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUyx3hNugFonPFn_uw7vlEKnxnTJ4ZuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921585111270-utlif0rkuvdbq1paq9icqhnnk4oam865.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
