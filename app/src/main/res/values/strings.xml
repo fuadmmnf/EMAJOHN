@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EMAJOHN</string>
+    <string name="facebook_app_id">569535103542514</string>
+    <string name="fb_login_protocol_scheme">fb569535103542514</string>
 </resources>
